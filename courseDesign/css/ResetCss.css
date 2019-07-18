@@ -1,0 +1,49 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body,button,input,select,textarea{
+	font-family: inherit;
+	font-size: inherit;
+	font-weight: inherit;
+	background-color: rgb(66,155,86);
+}
+
+h1,h2,h3,h4,h5,h6{
+	font-size: 100%;
+}
+
+em,strong,b,u,i{
+	font-style: normal;
+}
+
+small{
+	font-size: 12px;
+}
+
+ul, ol{
+	list-style: none;
+}
+
+a{
+	text-decoration: none;
+}
+
+a:hover{
+	text-decoration: underline;
+}
+
+fieldset, img{
+	border: 0;
+}
+
+button, input, select, textarea{
+	font-size: 100%;
+}
+
+table{
+	/*相邻边被合并*/
+	border-collapse: collapse;
+	border-spacing: 0;
+}
