@@ -2,7 +2,7 @@
 
 这是一个《2048》小游戏，整个游戏的设计分为三大部分：
 
-链接地址：http://127.0.0.1:8020/courseDesign/index.html
+链接地址：https://1054651112.github.io/2048-H5/courseDesign/index.html
 
 
 第一部分：html页面部分
